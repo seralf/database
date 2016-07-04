@@ -72,7 +72,7 @@ There is a [Blazegraph Triple Pattern Fragment TPF](https://github.com/blazegrap
     <dependency>
         <groupId>com.blazegraph</groupId>
         <artifactId>BlazegraphBasedTPFServer</artifactId>
-        <version>0.1.0</version>
+        <version>0.1.1</version>
     </dependency>
 ```    
 
